@@ -1,0 +1,1 @@
+This is project is an upgraded verison of my previous band generator as i have added CSS and images. I used EJS partials templating for the header and footer, this project is made up of javascript, CSS and Node. 
